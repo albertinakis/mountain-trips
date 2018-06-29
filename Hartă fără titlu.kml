@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Hartă fără titlu</name>
+    <description/>
+    <Style id="icon-123-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-123-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-123">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-123-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-123-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-61-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-61-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-61">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-61-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-61-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-5000-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-0288D1-5000-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-0288D1-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>7MN_Traseul_28_BA.gpx</name>
+      <Placemark>
+        <name>intersecţie BR-BA</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.606503,45.597886,2361.889
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>indicator</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.606564,45.597845,2372.167
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vf. Paltinu</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.606969,45.598355,2399
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fereastra Bâlei</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.616523,45.598392,2286
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Turnul Paltinului</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.60559,45.596571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>intersecţie CR-BR</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.609189,45.600221,2244.193
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Curmătura Bâlei (Şau</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.609225,45.601447,2176
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>indicator</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.609162,45.601367,2194.329
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>intersecţie BA-CR</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.609116,45.600225,2247.074
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>intersecţie TR-BR</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.619345,45.599094,2302.776
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telecabina Bâlea</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.616416,45.604947,2056.897
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>indicator</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.619205,45.604576,2050.345
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>indicator</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.619011,45.604525,2002.297
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lacul Bâlea</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.617193,45.60327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cabana Bâlea Lac</name>
+        <description>Unknown Point Feature</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            24.618304,45.604156,2034
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Începutul traseului 28_BA</name>
+        <description>Cotă: 2040 m</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            24.618762,45.604446,2039.616
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Finalul traseului 28_BA</name>
+        <description>Cotă: 2354 m</description>
+        <styleUrl>#icon-123</styleUrl>
+        <Point>
+          <coordinates>
+            24.606523,45.597865,2353.995
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28_BA</name>
+        <description><![CDATA[Statistici calculate din datele importate<br><br>Distanță: 1,8 km<br>Cotă minimă: 2075 m<br>Cotă maximă: 2350 m<br>Total urcare: 316 m<br>Total coborâre: 41 m]]></description>
+        <styleUrl>#line-0288D1-5000</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            24.618762,45.604446,2039.616
+            24.619225,45.604586,2043.409
+            24.619314,45.604141,2054.306
+            24.619486,45.603869,2065.976
+            24.619459,45.603722,2068.194
+            24.619525,45.603478,2074.714
+            24.619759,45.603068,2089.36
+            24.619705,45.602735,2090.5
+            24.619803,45.602405,2115.917
+            24.619445,45.601934,2110.917
+            24.619444,45.601799,2122.025
+            24.619246,45.601411,2144.355
+            24.618813,45.600926,2169.594
+            24.618539,45.600817,2169.982
+            24.618471,45.600828,2164.389
+            24.618236,45.600665,2185.372
+            24.618092,45.600622,2188.864
+            24.617967,45.600504,2209.872
+            24.617493,45.600333,2253.276
+            24.617129,45.600108,2276.992
+            24.61673,45.60002,2283.565
+            24.61654,45.599931,2284.696
+            24.616184,45.59988,2277.385
+            24.615833,45.599821,2259.509
+            24.615483,45.59976,2245.513
+            24.61501,45.599654,2240.94
+            24.614695,45.599643,2231.956
+            24.614538,45.599549,2239.445
+            24.614055,45.599523,2239.428
+            24.61383,45.599554,2235.327
+            24.613426,45.599439,2249.682
+            24.612674,45.599411,2254.144
+            24.612209,45.599325,2267.894
+            24.611266,45.599553,2267.231
+            24.610772,45.599623,2270.901
+            24.61084,45.599667,2265.004
+            24.610765,45.599667,2266.095
+            24.61082,45.599694,2262.314
+            24.610641,45.599804,2252.645
+            24.610136,45.599949,2244.049
+            24.609852,45.600109,2230.357
+            24.609799,45.600043,2237.684
+            24.609688,45.600031,2240
+            24.609562,45.600107,2233.207
+            24.609491,45.600129,2231.628
+            24.609303,45.600174,2228.958
+            24.609109,45.600184,2230.034
+            24.609089,45.600184,2230.26
+            24.608786,45.600292,2222.496
+            24.608787,45.600191,2232.548
+            24.608481,45.600011,2253.765
+            24.608569,45.599988,2255.605
+            24.608568,45.599942,2260.562
+            24.60847,45.599868,2269.27
+            24.607936,45.599676,2289.225
+            24.607353,45.599594,2296.508
+            24.607243,45.599585,2297.754
+            24.607209,45.599549,2301.439
+            24.60726,45.599547,2301.49
+            24.607342,45.599521,2303.651
+            24.607335,45.599495,2306.251
+            24.607169,45.599454,2311.054
+            24.607026,45.599496,2306.783
+            24.606847,45.599535,2301.737
+            24.606662,45.599516,2301.208
+            24.606819,45.599421,2312.163
+            24.606589,45.599429,2307.638
+            24.606532,45.599329,2315.214
+            24.606291,45.599189,2324.861
+            24.60612,45.598945,2339.544
+            24.606383,45.598743,2353.566
+            24.606386,45.598607,2357.927
+            24.606213,45.598398,2354.049
+            24.606216,45.598312,2353.99
+            24.606389,45.598059,2355.04
+            24.606393,45.597968,2353.493
+            24.606439,45.597904,2353.171
+            24.606523,45.597865,2353.995
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
